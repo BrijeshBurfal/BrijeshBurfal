@@ -6,9 +6,9 @@
 
 <p align="center">
   <a href="https://github.com/BrijeshBurfal>
-    <img src="https://img.shields.io/github/followers/your-username?label=Followers&style=social">
+    <img src="https://img.shields.io/github/followers/BrijeshBurfal?label=Followers&style=social">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=BrijeshBurfal&label=Profile%20views&color=blue&style=flat" />
 </p>
 
 ---
