@@ -46,7 +46,35 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 
 ---
+## 🔐 Security Research Contributions
 
+### 🧨 DataHub (Open Source Security)
+
+- Reported and authored multiple security vulnerabilities in [DataHub](https://github.com/datahub-project/datahub)
+- Contributed to GitHub Security Advisories (GHSA) with critical findings in:
+  - Java/Maven dependencies
+  - Apache Kafka & PySpark images
+  - Apache Airflow integrations
+  - Container security & supply chain risks
+
+### 📢 Notable Advisories
+
+#### 🔴 Critical
+- GHSA-pxmp-fgpq-7pxp — SnakeYAML vulnerability
+- GHSA-mfv5-wrp2-r728 — PySpark JAR vulnerabilities
+- GHSA-37m8-mvfr-fvfg — Kafka image vulnerability
+- GHSA-6x4p-c2p2-62wp — Maven vulnerability
+- GHSA-92v9-rh86-wgrv — Java dependency issue
+
+#### 🟠 High
+- GHSA-fhmj-65fg-6c4g — JAR package vulnerabilities
+- GHSA-hvrr-x346-5hgm — Netty & Maven issues
+
+#### 📢 Published (Credited as Reporter)
+- GHSA-wxq2-3f82-2xjj — Log4j vulnerability
+- GHSA-2q7w-7r2r-572w — PySpark vulnerability
+
+---
 ## 🔗 GitLab Projects  
 👉 https://gitlab.com/users/BURFAL18/projects
 
